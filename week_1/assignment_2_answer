@@ -59,7 +59,10 @@ Check whether φ1, φ2, ..., φn is all false.
 11
 (a) D ∧ Y
 (b) T ∧ (¬Y) ∧ D
-(c) (D ∧ (¬Y)) ∧ ((¬D) ∧ Y)
+(c) (D ∧ (¬Y)) ∧ ((¬D) ∧ Y)     [WRONG]
+    ¬(D ∧ Y)                    [CORRECT]
+    (D ∧ (¬Y)) ∨ ((¬D) ∧ Y)     [CORRECT]
+    because if one of (D ∧ (¬Y)) and ((¬D) ∧ Y) is true, it means ¬(D ∧ Y) is true.
 (d) T ∧ (¬D) ∧ (¬Y)
 (e) (¬T) ∧ D ∧ Y
 
