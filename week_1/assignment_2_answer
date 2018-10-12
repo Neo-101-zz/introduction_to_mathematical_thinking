@@ -1,0 +1,84 @@
+PROBLEMS
+
+1
+(a) 0 < π < 10
+(b) 7 <= p < 12
+(c) 5 < x < 7
+(d) x < 4
+(e) -3 < y < 3
+(f) x = 0
+
+2
+(a) π is greater than 0 and less than 10
+(b) p is greater than or equal to 7 and less than 12
+(c) x is greater than 5 and less than 7
+(d) x is less than 4
+(e) y is greater than -3 and less than 3
+(f) y is equal to 0
+
+3
+Check whether φ1, φ2, ..., φn is all true.
+
+4
+Check whether any of φ1, φ2, ..., φn is false.
+
+5
+(a) π > 3
+(b) x ≠ 0
+(c) x >= 0
+(d) x >= 0
+(e) (x < -3) ∨ (x > 3)
+
+6
+(a) π is greater than 3
+(b) x is not equal to 0
+(c) x is greater than or equal to 0
+(d) x is greater than or equal to 0
+(e) x is less than -3 or greater than 3
+
+7
+Check whether any of φ1, φ2, ..., φn is true.
+
+8
+Check whether φ1, φ2, ..., φn is all false.
+
+9
+(a) π <= 3.2
+(b) x >= 0
+(c) x = 0
+(d) x ≠ 1
+(e) ψ
+
+10
+(a) π is less than or equal to 3.2
+(b) x is greater than or equal to 0
+(c) x is equal to 0
+(d) x is not equal to 0
+(e) ψ
+
+11
+(a) D ∧ Y
+(b) T ∧ (¬Y) ∧ D
+(c) (D ∧ (¬Y)) ∧ ((¬D) ∧ Y)
+(d) T ∧ (¬D) ∧ (¬Y)
+(e) (¬T) ∧ D ∧ Y
+
+TWO TO THINK ABOUT AND DISCUS WITH OTHER STUDENTS
+
+1
+This state of affairs is not captured acccurately when we use "not" in mathematical sense.
+Because in mathematical sense, "¬guilty" means truly not guilty, 
+not the meaning of not proven guilty in this case.
+"Not proven" and "¬proven" mean the same in the case that 
+it refers to the proving state of prosecution, which means the prosecution fails to prove guilt.
+"Not proven" and "¬proven" don not mean the same in the case that 
+it refers to the law case itself. 
+Because the prosecution failing to prove guilt is not equal to the fact that 
+the defendant can not been prove guilt.
+
+2
+individual judgement is very subjective, and vary a large extent.
+In this case, we can set the judgement of a movie as a number with 3 values: -1, 0 and 1, 
+which mean "displeased", "sort of" and "pleased" respectively.
+So, "not displeased" is not equal to "pleased" just like >=(-1) is not equal to 1.
+There is a state naming "sort of" between them.
