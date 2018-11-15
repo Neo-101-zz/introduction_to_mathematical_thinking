@@ -2,8 +2,8 @@
 
 1.
 
-​	(1) The man uses a telescope to see the women.
-​	(2) The women was seen by the man with telescope.
+​(1) The man uses a telescope to see the women.
+​(2) The women was seen by the man with telescope.
 
 2.
 
