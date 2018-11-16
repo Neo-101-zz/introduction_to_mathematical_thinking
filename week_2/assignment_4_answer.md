@@ -2,15 +2,15 @@
 
 1.<br/>
 
-φ	ψ	φ ⇒ ψ	ψ ⇒ φ	φ ⇔ ψ<br/>
+φ &nbsp;ψ	φ ⇒ ψ	ψ ⇒ φ	φ ⇔ ψ<br/>
 
-T	T	T		T		T<br/>
+T &nbsp;T	T		T		T<br/>
 
-T	F	F		T		F<br/>
+T	&nbsp;F	F		T		F<br/>
 
-F	T	T		F		F<br/>
+F	&nbsp;T	T		F		F<br/>
 
-F	F	T		T		T<br/>
+F	&nbsp;F	T		T		T<br/>
 
 2.<br/>
 
